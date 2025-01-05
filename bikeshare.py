@@ -1,3 +1,4 @@
+#Refactor main function for better readability
 import time
 import pandas as pd
 import numpy as np
