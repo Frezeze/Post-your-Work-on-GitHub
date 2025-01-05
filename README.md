@@ -1,2 +1,2 @@
 # Post-your-Work-on-GitHub
-Udacity
+Update README.md with new documentation
